@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Tech Corp",
+    "companyLogo": "https://logo.com/techcorp.png",
+    "location": "Jakarta",
+    "email": "contact@techcorp.com",
+    "description": "Perusahaan teknologi",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "Startup Indo",
+    "companyLogo": "https://logo.com/startupindo.png",
+    "location": "Bandung",
+    "email": "hello@startupindo.com",
+    "description": "Startup digital Indonesia",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "Digital Nusantara",
+    "companyLogo": "https://logo.com/digitalnusantara.png",
+    "location": "Surabaya",
+    "email": "info@digitalnusantara.com",
+    "description": "Solusi digital modern",
+    "createdAt": "2026-01-02T00:00:00.000Z",
+    "updatedAt": "2026-01-02T00:00:00.000Z"
+  },
+  {
+    "name": "Inovasi Tech",
+    "companyLogo": "https://logo.com/inovasi.png",
+    "location": "Yogyakarta",
+    "email": "contact@inovasi.com",
+    "description": "Inovasi teknologi terkini",
+    "createdAt": "2026-01-03T00:00:00.000Z",
+    "updatedAt": "2026-01-03T00:00:00.000Z"
+  },
+  {
+    "name": "Cloudify",
+    "companyLogo": "https://logo.com/cloudify.png",
+    "location": "Jakarta",
+    "email": "support@cloudify.com",
+    "description": "Cloud computing solutions",
+    "createdAt": "2026-01-04T00:00:00.000Z",
+    "updatedAt": "2026-01-04T00:00:00.000Z"
+  },
+  {
+    "name": "Data Vision",
+    "companyLogo": "https://logo.com/datavision.png",
+    "location": "Bandung",
+    "email": "info@datavision.com",
+    "description": "Analisis data dan AI",
+    "createdAt": "2026-01-05T00:00:00.000Z",
+    "updatedAt": "2026-01-05T00:00:00.000Z"
+  },
+  {
+    "name": "Cyber Secure",
+    "companyLogo": "https://logo.com/cybersecure.png",
+    "location": "Surabaya",
+    "email": "security@cybersecure.com",
+    "description": "Keamanan sistem digital",
+    "createdAt": "2026-01-06T00:00:00.000Z",
+    "updatedAt": "2026-01-06T00:00:00.000Z"
+  },
+  {
+    "name": "AppWorks",
+    "companyLogo": "https://logo.com/appworks.png",
+    "location": "Bali",
+    "email": "hello@appworks.com",
+    "description": "Pengembangan aplikasi mobile",
+    "createdAt": "2026-01-07T00:00:00.000Z",
+    "updatedAt": "2026-01-07T00:00:00.000Z"
+  },
+  {
+    "name": "Net Solutions",
+    "companyLogo": "https://logo.com/netsolutions.png",
+    "location": "Medan",
+    "email": "contact@netsolutions.com",
+    "description": "Jaringan dan infrastruktur IT",
+    "createdAt": "2026-01-08T00:00:00.000Z",
+    "updatedAt": "2026-01-08T00:00:00.000Z"
+  },
+  {
+    "name": "Creative Labs",
+    "companyLogo": "https://logo.com/creativelabs.png",
+    "location": "Makassar",
+    "email": "info@creativelabs.com",
+    "description": "Desain kreatif dan branding",
+    "createdAt": "2026-01-09T00:00:00.000Z",
+    "updatedAt": "2026-01-09T00:00:00.000Z"
+  },
+  {
+    "name": "Future Tech",
+    "companyLogo": "https://logo.com/futuretech.png",
+    "location": "Semarang",
+    "email": "contact@futuretech.com",
+    "description": "Teknologi masa depan",
+    "createdAt": "2026-01-10T00:00:00.000Z",
+    "updatedAt": "2026-01-10T00:00:00.000Z"
+  },
+  {
+    "name": "AI Labs",
+    "companyLogo": "https://logo.com/ailabs.png",
+    "location": "Jakarta",
+    "email": "ai@ailabs.com",
+    "description": "Riset kecerdasan buatan",
+    "createdAt": "2026-01-11T00:00:00.000Z",
+    "updatedAt": "2026-01-11T00:00:00.000Z"
+  },
+  {
+    "name": "Code Factory",
+    "companyLogo": "https://logo.com/codefactory.png",
+    "location": "Bandung",
+    "email": "info@codefactory.com",
+    "description": "Pengembangan software custom",
+    "createdAt": "2026-01-12T00:00:00.000Z",
+    "updatedAt": "2026-01-12T00:00:00.000Z"
+  },
+  {
+    "name": "Tech Innovate",
+    "companyLogo": "https://logo.com/techinnovate.png",
+    "location": "Surabaya",
+    "email": "contact@techinnovate.com",
+    "description": "Inovasi solusi IT",
+    "createdAt": "2026-01-13T00:00:00.000Z",
+    "updatedAt": "2026-01-13T00:00:00.000Z"
+  },
+  {
+    "name": "Smart Systems",
+    "companyLogo": "https://logo.com/smartsystems.png",
+    "location": "Yogyakarta",
+    "email": "info@smartsystems.com",
+    "description": "Sistem pintar berbasis IoT",
+    "createdAt": "2026-01-14T00:00:00.000Z",
+    "updatedAt": "2026-01-14T00:00:00.000Z"
+  },
+  {
+    "name": "NextGen Tech",
+    "companyLogo": "https://logo.com/nextgen.png",
+    "location": "Malang",
+    "email": "hello@nextgen.com",
+    "description": "Teknologi generasi berikutnya",
+    "createdAt": "2026-01-15T00:00:00.000Z",
+    "updatedAt": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "name": "Digital Hub",
+    "companyLogo": "https://logo.com/digitalhub.png",
+    "location": "Solo",
+    "email": "contact@digitalhub.com",
+    "description": "Pusat solusi digital",
+    "createdAt": "2026-01-16T00:00:00.000Z",
+    "updatedAt": "2026-01-16T00:00:00.000Z"
+  },
+  {
+    "name": "Inspire Tech",
+    "companyLogo": "https://logo.com/inspiretech.png",
+    "location": "Depok",
+    "email": "info@inspiretech.com",
+    "description": "Teknologi yang menginspirasi",
+    "createdAt": "2026-01-17T00:00:00.000Z",
+    "updatedAt": "2026-01-17T00:00:00.000Z"
+  },
+  {
+    "name": "Global Tech",
+    "companyLogo": "https://logo.com/globaltech.png",
+    "location": "Bekasi",
+    "email": "contact@globaltech.com",
+    "description": "Solusi IT global",
+    "createdAt": "2026-01-18T00:00:00.000Z",
+    "updatedAt": "2026-01-18T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Frontend Developer",
+    "description": "Mengerjakan UI menggunakan React",
+    "imgUrl": "https://job.com/frontend.png",
+    "jobType": "Full-time",
+    "companyId": 1,
+    "authorId": 1,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "Backend Developer",
+    "description": "Mengerjakan API dengan Node.js",
+    "imgUrl": "https://job.com/backend.png",
+    "jobType": "Full-time",
+    "companyId": 1,
+    "authorId": 2,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "UI/UX Designer",
+    "description": "Design tampilan aplikasi",
+    "imgUrl": "https://job.com/uiux.png",
+    "jobType": "Contract",
+    "companyId": 2,
+    "authorId": 2,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "DevOps Engineer",
+    "description": "Mengelola deployment dan CI/CD",
+    "imgUrl": "https://job.com/devops.png",
+    "jobType": "Full-time",
+    "companyId": 2,
+    "authorId": 1,
+    "createdAt": "2026-01-02T00:00:00.000Z",
+    "updatedAt": "2026-01-02T00:00:00.000Z"
+  },
+  {
+    "title": "Mobile Developer",
+    "description": "Membangun aplikasi Android/iOS",
+    "imgUrl": "https://job.com/mobile.png",
+    "jobType": "Full-time",
+    "companyId": 3,
+    "authorId": 2,
+    "createdAt": "2026-01-03T00:00:00.000Z",
+    "updatedAt": "2026-01-03T00:00:00.000Z"
+  },
+  {
+    "title": "QA Engineer",
+    "description": "Testing aplikasi dan bug tracking",
+    "imgUrl": "https://job.com/qa.png",
+    "jobType": "Contract",
+    "companyId": 3,
+    "authorId": 1,
+    "createdAt": "2026-01-04T00:00:00.000Z",
+    "updatedAt": "2026-01-04T00:00:00.000Z"
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Analisis data perusahaan",
+    "imgUrl": "https://job.com/data.png",
+    "jobType": "Full-time",
+    "companyId": 4,
+    "authorId": 2,
+    "createdAt": "2026-01-05T00:00:00.000Z",
+    "updatedAt": "2026-01-05T00:00:00.000Z"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "Membangun model AI",
+    "imgUrl": "https://job.com/ml.png",
+    "jobType": "Full-time",
+    "companyId": 4,
+    "authorId": 1,
+    "createdAt": "2026-01-06T00:00:00.000Z",
+    "updatedAt": "2026-01-06T00:00:00.000Z"
+  },
+  {
+    "title": "System Analyst",
+    "description": "Analisis kebutuhan sistem",
+    "imgUrl": "https://job.com/system.png",
+    "jobType": "Full-time",
+    "companyId": 5,
+    "authorId": 2,
+    "createdAt": "2026-01-07T00:00:00.000Z",
+    "updatedAt": "2026-01-07T00:00:00.000Z"
+  },
+  {
+    "title": "Product Manager",
+    "description": "Mengatur roadmap produk",
+    "imgUrl": "https://job.com/pm.png",
+    "jobType": "Full-time",
+    "companyId": 5,
+    "authorId": 1,
+    "createdAt": "2026-01-08T00:00:00.000Z",
+    "updatedAt": "2026-01-08T00:00:00.000Z"
+  },
+  {
+    "title": "Graphic Designer",
+    "description": "Desain visual branding",
+    "imgUrl": "https://job.com/design.png",
+    "jobType": "Contract",
+    "companyId": 6,
+    "authorId": 2,
+    "createdAt": "2026-01-09T00:00:00.000Z",
+    "updatedAt": "2026-01-09T00:00:00.000Z"
+  },
+  {
+    "title": "Security Engineer",
+    "description": "Menjaga keamanan sistem",
+    "imgUrl": "https://job.com/security.png",
+    "jobType": "Full-time",
+    "companyId": 6,
+    "authorId": 1,
+    "createdAt": "2026-01-10T00:00:00.000Z",
+    "updatedAt": "2026-01-10T00:00:00.000Z"
+  },
+  {
+    "title": "Cloud Engineer",
+    "description": "Mengelola infrastruktur cloud",
+    "imgUrl": "https://job.com/cloud.png",
+    "jobType": "Full-time",
+    "companyId": 7,
+    "authorId": 2,
+    "createdAt": "2026-01-11T00:00:00.000Z",
+    "updatedAt": "2026-01-11T00:00:00.000Z"
+  },
+  {
+    "title": "Database Administrator",
+    "description": "Mengelola database",
+    "imgUrl": "https://job.com/db.png",
+    "jobType": "Full-time",
+    "companyId": 7,
+    "authorId": 1,
+    "createdAt": "2026-01-12T00:00:00.000Z",
+    "updatedAt": "2026-01-12T00:00:00.000Z"
+  },
+  {
+    "title": "Technical Writer",
+    "description": "Menulis dokumentasi teknis",
+    "imgUrl": "https://job.com/writer.png",
+    "jobType": "Contract",
+    "companyId": 8,
+    "authorId": 2,
+    "createdAt": "2026-01-13T00:00:00.000Z",
+    "updatedAt": "2026-01-13T00:00:00.000Z"
+  },
+  {
+    "title": "Game Developer",
+    "description": "Membuat game interaktif",
+    "imgUrl": "https://job.com/game.png",
+    "jobType": "Full-time",
+    "companyId": 8,
+    "authorId": 1,
+    "createdAt": "2026-01-14T00:00:00.000Z",
+    "updatedAt": "2026-01-14T00:00:00.000Z"
+  },
+  {
+    "title": "AI Engineer",
+    "description": "Mengembangkan solusi AI",
+    "imgUrl": "https://job.com/ai.png",
+    "jobType": "Full-time",
+    "companyId": 9,
+    "authorId": 2,
+    "createdAt": "2026-01-15T00:00:00.000Z",
+    "updatedAt": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "title": "Network Engineer",
+    "description": "Mengelola jaringan perusahaan",
+    "imgUrl": "https://job.com/network.png",
+    "jobType": "Full-time",
+    "companyId": 9,
+    "authorId": 1,
+    "createdAt": "2026-01-16T00:00:00.000Z",
+    "updatedAt": "2026-01-16T00:00:00.000Z"
+  },
+  {
+    "title": "IT Support",
+    "description": "Support teknis harian",
+    "imgUrl": "https://job.com/support.png",
+    "jobType": "Contract",
+    "companyId": 10,
+    "authorId": 2,
+    "createdAt": "2026-01-17T00:00:00.000Z",
+    "updatedAt": "2026-01-17T00:00:00.000Z"
+  },
+  {
+    "title": "Fullstack Developer",
+    "description": "Frontend dan backend development",
+    "imgUrl": "https://job.com/fullstack.png",
+    "jobType": "Full-time",
+    "companyId": 10,
+    "authorId": 1,
+    "createdAt": "2026-01-18T00:00:00.000Z",
+    "updatedAt": "2026-01-18T00:00:00.000Z"
+  }
+]

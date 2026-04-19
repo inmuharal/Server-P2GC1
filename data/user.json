@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "username": "admin01",
+    "email": "admin01@example.com",
+    "password": "Admin123!",
+    "role": "admin",
+    "phoneNumber": "081234567890",
+    "address": "Jakarta",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "updatedAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "username": "staff01",
+    "email": "staff01@example.com",
+    "password": "Staff123!",
+    "role": "staff",
+    "phoneNumber": "081298765432",
+    "address": "Bandung",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "updatedAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "username": "staff02",
+    "email": "staff02@example.com",
+    "password": "Staff123!",
+    "role": "staff",
+    "phoneNumber": "082112223334",
+    "address": "Surabaya",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "updatedAt": "2025-01-01T00:00:00Z"
+  }
+]
